@@ -11,6 +11,11 @@ This project implements a **Convolutional Neural Network (CNN)** to classify ima
 - **Classes:** 43 different traffic signs
 - **Format:** 32x32 RGB images
 
+- **Download the required files:**
+- [train.p](https://drive.google.com/file/d/19vPc9gJ7LPv8Uw-D3gbYa7psLgb-jy0v/view?usp=sharing)
+- [test.p](https://drive.google.com/file/d/1lb1JSa2pi-KDvVOAG1pyvMvoIbEOzSt9/view?usp=sharing)
+- [valid.p](https://drive.google.com/file/d/13LPCK0VESsKqJxaP0YDZ5yqtAvvB-uQp/view?usp=sharing)
+- [signnames.csv](https://drive.google.com/file/d/1Ww3Ns5x6vrlSszfu_X5n8Wnn5bGLbQOJ/view?usp=sharing)
 ---
 
 ## 🧠 Model Architecture
